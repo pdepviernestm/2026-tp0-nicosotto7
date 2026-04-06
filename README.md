@@ -10,4 +10,4 @@
 
 Soy fanatico enfermo del Club Atletico River Plate. Me gustan mucho los deportes, entre ellos los que mas juego son: Futbol, Tenis, Padel
 
-![Imagen de Nico](C:/Users/nicol/Downloads/WhatsApp Image 2026-04-06 at 10.18.59.jpeg)
+![Imagen de Nico](https://github.com/pdepviernestm/2026-tp0-nicosotto7/blob/ea016003f4dab3ebae9fa3173e0b1a63b2a10696/WhatsApp%20Image%202026-04-06%20at%2010.18.59.jpeg)
